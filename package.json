@@ -1,18 +1,20 @@
 {
-  "name": "react-ui",
-  "description": "Simple prebuilt React UI components using bootstrap CSS",
+  "name": "react-gui",
+  "description": "A collection of prebuilt React UI components",
   "version": "0.0.1",
   "author": "Jeff Wooden <jeff@rocana.com>",
   "license": "MIT",
   "keywords": [
     "react",
-    "react-ui"
+    "react-gui",
+    "react-ui",
+    "react-components"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/woodenconsulting/react-ui.git"
+    "url": "https://github.com/woodenconsulting/react-gui.git"
   },
-  "bugs": "https://github.com/woodenconsulting/react-ui/issues",
+  "bugs": "https://github.com/woodenconsulting/react-gui/issues",
   "dependencies": {
     "react": "15.3.1",
     "react-dom": "15.3.1"
